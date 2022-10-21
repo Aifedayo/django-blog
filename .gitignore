@@ -1,2 +1,5 @@
 # Ignore settings.py 
 settings.py
+
+# Ignore env files
+.env
